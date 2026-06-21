@@ -15,9 +15,9 @@
     <itunes:email>bersimoes@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:summary>A short private podcast series about bedtime routines, sleep pressure, night returns, fear of the dark, rewards, setbacks, siblings, and sleep upgrades.</itunes:summary>
-  <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover.jpg" />
+  <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover-v2.jpg" />
   <image>
-    <url>https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover.jpg</url>
+    <url>https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover-v2.jpg</url>
     <title>Pedro Sleeps</title>
     <link>https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps</link>
   </image>
@@ -35,7 +35,7 @@
     <itunes:episode>8</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:duration>3:00</itunes:duration>
-    <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover.jpg" />
+    <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover-v2.jpg" />
     <pubDate>Sun, 21 Jun 2026 19:34:18 +0000</pubDate>
     <guid isPermaLink="false">pedro-sleeps-s01e08</guid>
     <enclosure url="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/audio/pedro-sleeps-episode-08.mp3" length="2880922" type="audio/mpeg" />
@@ -50,7 +50,7 @@
     <itunes:episode>7</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:duration>2:50</itunes:duration>
-    <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover.jpg" />
+    <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover-v2.jpg" />
     <pubDate>Sat, 20 Jun 2026 19:34:18 +0000</pubDate>
     <guid isPermaLink="false">pedro-sleeps-s01e07</guid>
     <enclosure url="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/audio/pedro-sleeps-episode-07.mp3" length="2717500" type="audio/mpeg" />
@@ -65,7 +65,7 @@
     <itunes:episode>6</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:duration>2:48</itunes:duration>
-    <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover.jpg" />
+    <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover-v2.jpg" />
     <pubDate>Fri, 19 Jun 2026 19:34:18 +0000</pubDate>
     <guid isPermaLink="false">pedro-sleeps-s01e06</guid>
     <enclosure url="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/audio/pedro-sleeps-episode-06.mp3" length="2687825" type="audio/mpeg" />
@@ -80,7 +80,7 @@
     <itunes:episode>5</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:duration>2:49</itunes:duration>
-    <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover.jpg" />
+    <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover-v2.jpg" />
     <pubDate>Thu, 18 Jun 2026 19:34:18 +0000</pubDate>
     <guid isPermaLink="false">pedro-sleeps-s01e05</guid>
     <enclosure url="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/audio/pedro-sleeps-episode-05.mp3" length="2703289" type="audio/mpeg" />
@@ -95,7 +95,7 @@
     <itunes:episode>4</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:duration>3:10</itunes:duration>
-    <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover.jpg" />
+    <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover-v2.jpg" />
     <pubDate>Wed, 17 Jun 2026 19:34:18 +0000</pubDate>
     <guid isPermaLink="false">pedro-sleeps-s01e04</guid>
     <enclosure url="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/audio/pedro-sleeps-episode-04.mp3" length="3042254" type="audio/mpeg" />
@@ -110,7 +110,7 @@
     <itunes:episode>3</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:duration>3:21</itunes:duration>
-    <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover.jpg" />
+    <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover-v2.jpg" />
     <pubDate>Tue, 16 Jun 2026 19:34:18 +0000</pubDate>
     <guid isPermaLink="false">pedro-sleeps-s01e03</guid>
     <enclosure url="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/audio/pedro-sleeps-episode-03.mp3" length="3215289" type="audio/mpeg" />
@@ -125,7 +125,7 @@
     <itunes:episode>2</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:duration>3:23</itunes:duration>
-    <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover.jpg" />
+    <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover-v2.jpg" />
     <pubDate>Mon, 15 Jun 2026 19:34:18 +0000</pubDate>
     <guid isPermaLink="false">pedro-sleeps-s01e02</guid>
     <enclosure url="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/audio/pedro-sleeps-episode-02.mp3" length="3243292" type="audio/mpeg" />
@@ -140,7 +140,7 @@
     <itunes:episode>1</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:duration>4:40</itunes:duration>
-    <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover.jpg" />
+    <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover-v2.jpg" />
     <pubDate>Sun, 14 Jun 2026 19:34:18 +0000</pubDate>
     <guid isPermaLink="false">pedro-sleeps-s01e01</guid>
     <enclosure url="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/audio/pedro-sleeps-episode-01.mp3" length="4469471" type="audio/mpeg" />
