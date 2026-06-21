@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>Pedro Sleeps</title>
+  <itunes:title>Pedro Sleeps</itunes:title>
   <link>https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps</link>
+  <atom:link href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/feed.xml" rel="self" type="application/rss+xml" />
   <description>A short private podcast series about helping Pedro fall asleep earlier and more calmly.</description>
-  <language>en</language>
+  <language>en-us</language>
   <copyright>Private family use</copyright>
+  <generator>Carla / OpenClaw</generator>
   <itunes:author>Carla for Bernardo</itunes:author>
+  <itunes:owner>
+    <itunes:name>Bernardo Simões</itunes:name>
+    <itunes:email>bersimoes@gmail.com</itunes:email>
+  </itunes:owner>
   <itunes:summary>A short private podcast series about bedtime routines, sleep pressure, night returns, fear of the dark, rewards, setbacks, siblings, and sleep upgrades.</itunes:summary>
   <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover.jpg" />
   <image>
@@ -15,80 +22,128 @@
     <link>https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps</link>
   </image>
   <itunes:explicit>false</itunes:explicit>
-  <itunes:type>episodic</itunes:type>
+  <itunes:type>serial</itunes:type>
   <itunes:category text="Kids &amp; Family" />
-  <lastBuildDate>Sun, 21 Jun 2026 15:20:56 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 21 Jun 2026 19:34:18 +0000</lastBuildDate>
   <item>
-    <title>01. The invisible mistake</title>
-    <description>He is in bed at 9, but only falls asleep at 10.</description>
-    <itunes:summary>He is in bed at 9, but only falls asleep at 10.</itunes:summary>
-    <itunes:duration>4:40</itunes:duration>
-    <pubDate>Sun, 14 Jun 2026 15:20:56 +0000</pubDate>
-    <guid isPermaLink="false">https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/episodes/01</guid>
-    <enclosure url="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/audio/pedro-sleeps-episode-01.mp3" length="4469471" type="audio/mpeg" />
-  </item>
-  <item>
-    <title>02. The calm staircase</title>
-    <description>A predictable evening routine, visual chart, night pass, and chair method.</description>
-    <itunes:summary>A predictable evening routine, visual chart, night pass, and chair method.</itunes:summary>
-    <itunes:duration>3:23</itunes:duration>
-    <pubDate>Mon, 15 Jun 2026 15:20:56 +0000</pubDate>
-    <guid isPermaLink="false">https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/episodes/02</guid>
-    <enclosure url="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/audio/pedro-sleeps-episode-02.mp3" length="3243292" type="audio/mpeg" />
-  </item>
-  <item>
-    <title>03. The eleven-thirty return</title>
-    <description>What to do when Pedro appears in the parents’ room at night.</description>
-    <itunes:summary>What to do when Pedro appears in the parents’ room at night.</itunes:summary>
-    <itunes:duration>3:21</itunes:duration>
-    <pubDate>Tue, 16 Jun 2026 15:20:56 +0000</pubDate>
-    <guid isPermaLink="false">https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/episodes/03</guid>
-    <enclosure url="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/audio/pedro-sleeps-episode-03.mp3" length="3215289" type="audio/mpeg" />
-  </item>
-  <item>
-    <title>04. Taming the dark</title>
-    <description>Validating fear without feeding it, night lights, guardians, and check-ins.</description>
-    <itunes:summary>Validating fear without feeding it, night lights, guardians, and check-ins.</itunes:summary>
-    <itunes:duration>3:10</itunes:duration>
-    <pubDate>Wed, 17 Jun 2026 15:20:56 +0000</pubDate>
-    <guid isPermaLink="false">https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/episodes/04</guid>
-    <enclosure url="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/audio/pedro-sleeps-episode-04.mp3" length="3042254" type="audio/mpeg" />
-  </item>
-  <item>
-    <title>05. From bribes to pride</title>
-    <description>Using rewards carefully, then fading them into confidence and pride.</description>
-    <itunes:summary>Using rewards carefully, then fading them into confidence and pride.</itunes:summary>
-    <itunes:duration>2:49</itunes:duration>
-    <pubDate>Thu, 18 Jun 2026 15:20:56 +0000</pubDate>
-    <guid isPermaLink="false">https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/episodes/05</guid>
-    <enclosure url="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/audio/pedro-sleeps-episode-05.mp3" length="2703289" type="audio/mpeg" />
-  </item>
-  <item>
-    <title>06. When it gets difficult</title>
-    <description>Setbacks, illness, parent shifts, realistic timelines, and red flags.</description>
-    <itunes:summary>Setbacks, illness, parent shifts, realistic timelines, and red flags.</itunes:summary>
-    <itunes:duration>2:48</itunes:duration>
-    <pubDate>Fri, 19 Jun 2026 15:20:56 +0000</pubDate>
-    <guid isPermaLink="false">https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/episodes/06</guid>
-    <enclosure url="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/audio/pedro-sleeps-episode-06.mp3" length="2687825" type="audio/mpeg" />
+    <title>08. The top-bunk fort</title>
+    <itunes:title>The top-bunk fort</itunes:title>
+    <description>Using exciting sleep upgrades safely without making them a bribe.</description>
+    <itunes:summary>Using exciting sleep upgrades safely without making them a bribe.</itunes:summary>
+    <content:encoded><![CDATA[<p>Using exciting sleep upgrades safely without making them a bribe.</p>]]></content:encoded>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:duration>3:00</itunes:duration>
+    <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover.jpg" />
+    <pubDate>Sun, 21 Jun 2026 19:34:18 +0000</pubDate>
+    <guid isPermaLink="false">pedro-sleeps-s01e08</guid>
+    <enclosure url="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/audio/pedro-sleeps-episode-08.mp3" length="2880922" type="audio/mpeg" />
   </item>
   <item>
     <title>07. Two kids, one room</title>
+    <itunes:title>Two kids, one room</itunes:title>
     <description>How to approach eventual room sharing without making siblings rivals.</description>
     <itunes:summary>How to approach eventual room sharing without making siblings rivals.</itunes:summary>
+    <content:encoded><![CDATA[<p>How to approach eventual room sharing without making siblings rivals.</p>]]></content:encoded>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
     <itunes:duration>2:50</itunes:duration>
-    <pubDate>Sat, 20 Jun 2026 15:20:56 +0000</pubDate>
-    <guid isPermaLink="false">https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/episodes/07</guid>
+    <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover.jpg" />
+    <pubDate>Sat, 20 Jun 2026 19:34:18 +0000</pubDate>
+    <guid isPermaLink="false">pedro-sleeps-s01e07</guid>
     <enclosure url="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/audio/pedro-sleeps-episode-07.mp3" length="2717500" type="audio/mpeg" />
   </item>
   <item>
-    <title>08. The top-bunk fort</title>
-    <description>Using exciting sleep upgrades safely without making them a bribe.</description>
-    <itunes:summary>Using exciting sleep upgrades safely without making them a bribe.</itunes:summary>
-    <itunes:duration>3:00</itunes:duration>
-    <pubDate>Sun, 21 Jun 2026 15:20:56 +0000</pubDate>
-    <guid isPermaLink="false">https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/episodes/08</guid>
-    <enclosure url="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/audio/pedro-sleeps-episode-08.mp3" length="2880922" type="audio/mpeg" />
+    <title>06. When it gets difficult</title>
+    <itunes:title>When it gets difficult</itunes:title>
+    <description>Setbacks, illness, parent shifts, realistic timelines, and red flags.</description>
+    <itunes:summary>Setbacks, illness, parent shifts, realistic timelines, and red flags.</itunes:summary>
+    <content:encoded><![CDATA[<p>Setbacks, illness, parent shifts, realistic timelines, and red flags.</p>]]></content:encoded>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:duration>2:48</itunes:duration>
+    <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover.jpg" />
+    <pubDate>Fri, 19 Jun 2026 19:34:18 +0000</pubDate>
+    <guid isPermaLink="false">pedro-sleeps-s01e06</guid>
+    <enclosure url="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/audio/pedro-sleeps-episode-06.mp3" length="2687825" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>05. From bribes to pride</title>
+    <itunes:title>From bribes to pride</itunes:title>
+    <description>Using rewards carefully, then fading them into confidence and pride.</description>
+    <itunes:summary>Using rewards carefully, then fading them into confidence and pride.</itunes:summary>
+    <content:encoded><![CDATA[<p>Using rewards carefully, then fading them into confidence and pride.</p>]]></content:encoded>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:duration>2:49</itunes:duration>
+    <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover.jpg" />
+    <pubDate>Thu, 18 Jun 2026 19:34:18 +0000</pubDate>
+    <guid isPermaLink="false">pedro-sleeps-s01e05</guid>
+    <enclosure url="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/audio/pedro-sleeps-episode-05.mp3" length="2703289" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>04. Taming the dark</title>
+    <itunes:title>Taming the dark</itunes:title>
+    <description>Validating fear without feeding it, night lights, guardians, and check-ins.</description>
+    <itunes:summary>Validating fear without feeding it, night lights, guardians, and check-ins.</itunes:summary>
+    <content:encoded><![CDATA[<p>Validating fear without feeding it, night lights, guardians, and check-ins.</p>]]></content:encoded>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:duration>3:10</itunes:duration>
+    <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover.jpg" />
+    <pubDate>Wed, 17 Jun 2026 19:34:18 +0000</pubDate>
+    <guid isPermaLink="false">pedro-sleeps-s01e04</guid>
+    <enclosure url="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/audio/pedro-sleeps-episode-04.mp3" length="3042254" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>03. The eleven-thirty return</title>
+    <itunes:title>The eleven-thirty return</itunes:title>
+    <description>What to do when Pedro appears in the parents’ room at night.</description>
+    <itunes:summary>What to do when Pedro appears in the parents’ room at night.</itunes:summary>
+    <content:encoded><![CDATA[<p>What to do when Pedro appears in the parents’ room at night.</p>]]></content:encoded>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:duration>3:21</itunes:duration>
+    <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover.jpg" />
+    <pubDate>Tue, 16 Jun 2026 19:34:18 +0000</pubDate>
+    <guid isPermaLink="false">pedro-sleeps-s01e03</guid>
+    <enclosure url="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/audio/pedro-sleeps-episode-03.mp3" length="3215289" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>02. The calm staircase</title>
+    <itunes:title>The calm staircase</itunes:title>
+    <description>A predictable evening routine, visual chart, night pass, and chair method.</description>
+    <itunes:summary>A predictable evening routine, visual chart, night pass, and chair method.</itunes:summary>
+    <content:encoded><![CDATA[<p>A predictable evening routine, visual chart, night pass, and chair method.</p>]]></content:encoded>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:duration>3:23</itunes:duration>
+    <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover.jpg" />
+    <pubDate>Mon, 15 Jun 2026 19:34:18 +0000</pubDate>
+    <guid isPermaLink="false">pedro-sleeps-s01e02</guid>
+    <enclosure url="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/audio/pedro-sleeps-episode-02.mp3" length="3243292" type="audio/mpeg" />
+  </item>
+  <item>
+    <title>01. The invisible mistake</title>
+    <itunes:title>The invisible mistake</itunes:title>
+    <description>He is in bed at 9, but only falls asleep at 10.</description>
+    <itunes:summary>He is in bed at 9, but only falls asleep at 10.</itunes:summary>
+    <content:encoded><![CDATA[<p>He is in bed at 9, but only falls asleep at 10.</p>]]></content:encoded>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:duration>4:40</itunes:duration>
+    <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover.jpg" />
+    <pubDate>Sun, 14 Jun 2026 19:34:18 +0000</pubDate>
+    <guid isPermaLink="false">pedro-sleeps-s01e01</guid>
+    <enclosure url="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/audio/pedro-sleeps-episode-01.mp3" length="4469471" type="audio/mpeg" />
   </item>
 </channel>
 </rss>
