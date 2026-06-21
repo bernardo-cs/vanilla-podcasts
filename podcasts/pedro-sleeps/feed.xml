@@ -8,6 +8,12 @@
   <copyright>Private family use</copyright>
   <itunes:author>Carla for Bernardo</itunes:author>
   <itunes:summary>A short private podcast series about bedtime routines, sleep pressure, night returns, fear of the dark, rewards, setbacks, siblings, and sleep upgrades.</itunes:summary>
+  <itunes:image href="https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover.jpg" />
+  <image>
+    <url>https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps/images/cover.jpg</url>
+    <title>Pedro Sleeps</title>
+    <link>https://bernardo-cs.github.io/vanilla-podcasts/podcasts/pedro-sleeps</link>
+  </image>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:category text="Kids &amp; Family" />
